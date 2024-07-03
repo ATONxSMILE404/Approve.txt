@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=3.0,width=1080,height=2208};FBLC/fr_FR;FBRV/216077496;FBCR/inwi;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1989;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128812;FBDM/{density=3.0,width=2218,height=1080};FBLC/pt_BR;FBRV/229499818;FBCR/Vivo;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one action;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
